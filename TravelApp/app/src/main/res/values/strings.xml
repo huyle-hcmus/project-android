@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Travel App</string>
+
+    <string name="nameApp">Travel App</string>
+    <string name="subtitleNameApp">Vietnam Tourist</string>
+    <string name="versionApp">v1.0</string>
+    <string name="copyright">Copyright © 2024 Ho Vi Duc Huy</string>
+    <string name="titleLogin">Welcome to Vietnam</string>
+
+    <string name="channel_name">Travel App v1.0</string>
+    <string name="channel_desc">Application Travel Vietnam</string>
+</resources>
